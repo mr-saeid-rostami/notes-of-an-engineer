@@ -4,4 +4,5 @@ I am a computer engineer. Most of my days are spent with code, logic, and machin
 I am no philosopher. I just write down the thoughts that keep me awake. These are my digital meditations.
 ______________________________________
 Read the first thought:
-meditations/01-genesis-of-silicon.md
+[01-genesis-of-silicon.md](https://github.com/mr-saeid-rostami/notes-of-an-engineer/blob/main/meditations/01-genesis-of-silicon.md)
+
